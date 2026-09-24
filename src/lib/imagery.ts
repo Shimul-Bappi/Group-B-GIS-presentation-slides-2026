@@ -1,6 +1,6 @@
 /// <reference types="vite/client" />
 import { useEffect, useState } from "react";
-import sceneUrl from "@/assets/sat-scene.jpg";
+import sceneUrl from "@/assets/sat-scene-raw.jpg";
 
 /**
  * Teaching simulation: a single true-colour scene is used to *approximate*
